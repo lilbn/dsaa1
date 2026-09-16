@@ -2,7 +2,8 @@
 Auj : 16 sept 2026
 
 ### 1_aframe
-[demo aframe](./test.html)
+* [demo aframe](./test.html)
+* [demo aframe](./test.html)
 
 ### 2_python
 
